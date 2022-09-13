@@ -1,0 +1,2 @@
+for _ in range(3): #Facilita a contagem, sem precisar escrever número por número em uma lista, o fazer uma conta para chegar em algum número. E o _ é usado para indeicar uma variável, sem dar um nome para ela
+    print ("meow")
